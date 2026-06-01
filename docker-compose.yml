@@ -35,4 +35,4 @@ services:
       - app
 
 volumes:
-  pgdata:
+  pgdata:d
